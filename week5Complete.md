@@ -1,0 +1,1 @@
+I've completed the required readings for this week.  There isn't anything that confuses me currently.  I just need to practice more using the features like using pull requests and creating branches to develop a consistency.
